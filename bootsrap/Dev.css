@@ -1,0 +1,71 @@
+.Main{
+    background-color: #E6F5F0;
+}
+.Main2{
+    background-color: #f8f9fa;
+}
+nav{
+    background-color:  #E6F5F0;
+    font-size: 17px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-item:hover  .nav-link{ color:green;}
+.nav-link{ color: black;}
+.developer{
+    font-size: 57px;
+    color: #05B993;
+    font-weight: 600;
+}
+
+#text1{
+    font-size: 20px;
+    color: #05B993;
+    font-weight: 0;
+   
+}
+/* .btn-primary{
+    border-radius: 4px;
+    background-color: #05b993;
+    color: #fff;
+} */
+.kelly{
+    color: #05B993;
+    padding: 50px 60px 50px 60px;
+    margin-left: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fff;
+}
+/* MAIN3 STARTS HERE */
+.main3{
+    line-height: 27px;
+    font-weight: 500;
+}
+/* MAIN4 STARTS HERE */
+.main4{
+    background-color: #f8f9fa;
+    color:  #05B993;
+}
+.kelly1{
+    color: #05B993;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fff;
+}
+h5{ color: black;}
+/* MAIN5 START HERE */
+.kelly2{
+    background-color: #f8f9fa;
+}
+input{
+    height: 50px;
+    border: none;
+    padding-right: 80px;
+    padding-left: 20px;
+    
+}
+button{
+    height: 50px;
+    border: none;
+    /* position: relative; */
+    left: -3px;
+}
